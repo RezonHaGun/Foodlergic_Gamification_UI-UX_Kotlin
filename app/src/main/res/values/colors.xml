@@ -21,13 +21,13 @@
 
     <!-- Primary Colors -->
     <color name="color_primary">#6CC595</color>
-    <color name="color_button">#F19A3E</color>
+    <color name="color_button">#DF7E00</color>
     <color name="color_primary_light">#E6F7C7</color>
     <color name="color_primary_dark">#88C235</color>
     <color name="color_on_primary">#1E1E1E</color>
 
     <!-- Accent / Secondary -->
-    <color name="blue_secondary">#6DA6D1</color> <!-- modern soft blue -->
+    <color name="blue_secondary">#31533B</color> <!-- modern soft blue -->
     <color name="blue_secondary_variant">#4A90C2</color>
     <color name="color_accent_blue">#2196F3</color>
 
