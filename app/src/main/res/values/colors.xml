@@ -13,14 +13,14 @@
 
     <color name="custom_color_primary">#8F9900</color>
     <color name="custom_color_secondary">#EEE300</color>
-    <color name="custom_color_secondary_light">#3A5A40</color>
+    <color name="custom_color_secondary_light">#31533B</color>
     <color name="custom_color_background"></color>
     <color name="custom_color_text_primary"></color>
     <color name="custom_color_text_secondary"></color>
 
 
     <!-- Primary Colors -->
-    <color name="color_primary">#97DAAF</color>
+    <color name="color_primary">#6CC595</color>
     <color name="color_button">#F19A3E</color>
     <color name="color_primary_light">#E6F7C7</color>
     <color name="color_primary_dark">#88C235</color>
